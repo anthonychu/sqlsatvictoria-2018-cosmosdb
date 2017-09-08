@@ -16,12 +16,12 @@
 ### 20 Days of Cosmos DB Tips
 * Follow [@simona_cotin](https://twitter.com/simona_cotin)
 
-### Samples
+### GitHub Samples
 * [Cosmos DB Flights](https://github.com/anthonychu/cosmosdb-gremlin-flights)
 * [Cosmos DB Latency](https://github.com/anthonychu/cosmosdb-latency)
 * [Node To-do app](https://github.com/anthonychu/node-todo)
 
-## Contact information
+### Contact information
 * [@nthonyChu](https://twitter.com/nthonyChu)
 * anthony.chu@microsoft.com
 * [@AzureCosmosDB](https://twitter.com/AzureCosmosDB)
