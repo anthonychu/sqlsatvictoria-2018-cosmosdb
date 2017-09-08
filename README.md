@@ -28,3 +28,5 @@
 
 ### Survey - Win a Surface Pro!
 * [aka.ms/SeattleCC](http://aka.ms/SeattleCC)
+
+![Bit + Microsoft + Cosmos DB = <3](bit-cosmosdb.png)
